@@ -1,8 +1,6 @@
-# wabot-aq
+# wa-updated
 
-Simple WhatsApp Bot
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nurutomo/wabot-aq)
+updated WaBot-aq
 
 ## FOR TERMUX/UBUNTU/SSH USER
 
@@ -159,7 +157,7 @@ restrict: false, // Enables restricted plugins (which can lead your number to be
 self: false, // Activate self mode (Ignores other)
 pconly: false, // If that chat not from private bot, bot will ignore
 gconly: false, // If that chat not from group, bot will ignore
-jadibot: false, 
+jadibot: false, {decrypt}
 ```
 
 ---------
